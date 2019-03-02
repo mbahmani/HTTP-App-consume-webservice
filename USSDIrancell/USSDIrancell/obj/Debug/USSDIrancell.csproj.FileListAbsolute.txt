@@ -1,0 +1,18 @@
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\bin\Debug\USSDIrancell.exe.config
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\bin\Debug\USSDIrancell.exe
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\bin\Debug\USSDIrancell.pdb
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.csprojResolveAssemblyReference.cache
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.FrmIrancell.resources
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.Properties.Resources.resources
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.csproj.GenerateResource.Cache
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.exe
+E:\USSD.new\Irancell\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.pdb
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\bin\Debug\USSDIrancell.exe.config
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.exe
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.pdb
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.csprojResolveAssemblyReference.cache
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.FrmIrancell.resources
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.Properties.Resources.resources
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\obj\Debug\USSDIrancell.csproj.GenerateResource.Cache
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\bin\Debug\USSDIrancell.exe
+E:\MyFile\c#-sample\HTTP App & consume webservice\USSDIrancell\USSDIrancell\bin\Debug\USSDIrancell.pdb

@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="IranCell.asmx.cs" Class="WebService1.IranCell" %>
